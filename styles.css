@@ -1,0 +1,67 @@
+body{
+    background-color: #ffb03f;
+}
+
+/* TYPOGRAPHY START */
+.font_Besar{
+    font-size: 200px;
+}
+.Text_Align_Center{
+    text-align: center;
+}
+.Text_Align_Right{
+    text-align-last: right;
+}
+/* TYPOGRAPHY END */
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+/* COLOR START */  
+#B200{
+    color: #79260C;
+}
+#B150{
+    color: #DEC22E;
+}
+#B100{
+    color: #F5B85B;
+}
+#DB200{
+    color: #44372A;
+}
+#G200{
+    color: #0EA726;
+}
+#G150{
+    color: #6F6B15;
+}
+#G100{
+    color: #8ADB24;
+}
+/* COLOR END */ 
+
+
+/* DIV BOX Color START */
+#BoxCategory_1 {
+    background-color: #00f583;
+}
+
+#BoxCategory_2 {
+    background-color: #cc00f5;
+}
+
+#BoxCategory_3 {
+    background-color: #f5dd00;
+}
+#BoxCategory_4 {
+    background-color: #1000f5;
+}
+#BoxCategory_5 {
+    background-color: #00d0f5;
+}
+#BoxCategory_6 {
+    background-color: #08f500;
+}
+/* DIV BOX Color END */
+
